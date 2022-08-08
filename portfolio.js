@@ -185,6 +185,14 @@ export const experience = [
 		
 	},
 	{
+		role: "Lecturer (Part time)",
+		company: "American College of Technology",
+		companylogo: "/img/icons/common/act.jpeg",
+		date: "June 2021 – Now",
+		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice;",
+		
+	},
+	{
 		role: "Lecturer (Full time)",
 		company: "Wachemo University",
 		companylogo: "/img/icons/common/wcu.jpeg",
