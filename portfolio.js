@@ -188,8 +188,16 @@ export const experience = [
 		role: "Lecturer (Part time)",
 		company: "American College of Technology",
 		companylogo: "/img/icons/common/act.jpeg",
-		date: "June 2021 – Now",
-		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice;",
+		date: "September 2021 – Now",
+		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice.",
+		
+	},
+	{
+		role: "Lecturer (Part time)",
+		company: "Universal College of Technology",
+		companylogo: "/img/icons/common/universal.jpeg",
+		date: "May 2022 – Now",
+		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice.",
 		
 	},
 	{
