@@ -164,52 +164,52 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Bahir Dar University",
+		schoolName: "BiT",
 		subHeader: "Master of Science in Computer Science",
 		duration: "November 2015 - March 2018",
 	},
-	{
-		schoolName: "Dilla University",
+	/*{
+		schoolName: "DU",
 		subHeader: "Bachelor of Science in Computer Science",
 		duration: "September 2009 - July 2013",
-	},
+	},*/
 ];
 
 export const experience = [
 	{
+		role: "Lead Researcher (Full time)",
+		company: "GA",
+		companylogo: "/img/icons/common/ns.jpeg",
+		date: "April 2022 – Now",
+		desc: "Performing research activities.",
+		
+	},
+	{
 		role: "Associate Researcher (Full time)",
-		company: "F.D.R.E. Technology and Innovation Institute",
+		company: "TECHIN",
 		companylogo: "/img/icons/common/techin.jpeg",
-		date: "June 2021 – Now",
+		date: "June 2021 – April 2022",
 		desc: "Designing, developing, testing, and deploying software systems; Performing research activities; Giving training and support; Administering an Integrated Civil Service Management Information System Software.",
 		
 	},
 	{
 		role: "Lecturer (Part time)",
-		company: "American College of Technology",
+		company: "ACT",
 		companylogo: "/img/icons/common/act.jpeg",
 		date: "September 2021 – Now",
 		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice.",
 		
 	},
 	{
-		role: "Lecturer (Part time)",
-		company: "Universal College of Technology",
-		companylogo: "/img/icons/common/universal.jpeg",
-		date: "May 2022 – Now",
-		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice.",
-		
-	},
-	{
 		role: "Lecturer (Full time)",
-		company: "Wachemo University",
+		company: "WCU",
 		companylogo: "/img/icons/common/wcu.jpeg",
 		date: "March 2018 - June 2021",
 		desc: "Adapting presentations to reach students of diverse backgrounds; Leveraging in-depth knowledge and experience in Computer Science to provide relevant information; Supervising students during team and individual training practice; Performing research activities.",
 	},
 	{
-		role: "Student Information Management System Administrator (Part time)",
-		company: "Wachemo University",
+		role: "[SIMS] System Administrator (Part time)",
+		company: "WCU",
 		companylogo: "/img/icons/common/wcu.jpeg",
 		date: "January 2020 - June 2021",
 		desc: "Administering an Integrated Software that automates the student related business processes of a University including: Course and Curriculum Management System; Academic Program Management System; Student Admissions, Registration and Achievement System; Online Grade Submission and Approval System; Certification and Graduation System; Building and Dormitory Management System; and Online Student Information.",
